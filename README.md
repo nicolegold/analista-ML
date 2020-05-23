@@ -2,7 +2,7 @@
 Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 
 <p align="center">
-  <img src="https://github.com/nicolegold/AnalistaMachineLearning/blob/master/LogoAML.png" >
+  <img src="https://raw.githubusercontent.com/nicolegold/AnalistaMachineLearning/master/LogoAML.png" >
 </p>
 
 **Fundamentos - Analista de Machine Learning**

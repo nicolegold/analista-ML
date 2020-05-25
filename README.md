@@ -1,4 +1,4 @@
-# AnalistaMachineLearning - Curso em andamento
+# AnalistaMachineLearning - Bootcamp em andamento
 Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 
 <p align="center">

@@ -5,8 +5,8 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
   <img src="https://raw.githubusercontent.com/nicolegold/AnalistaMachineLearning/master/LogoBML.png" >
 </p>
 
-Módulo 1
-**Fundamentos - Analista de Machine Learning**
+**Módulo 1: Fundamentos - Analista de Machine Learning**
+* Aula Inaugural do Módulo 1:<ol>[Aula Inaugural](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/aula_inaugural.ipynb)</ol>
 * Trabalho Prático do Módulo 1:<ol>[Atividade requisitada](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Trabalho%20Pr%C3%A1tico%20-%20M%C3%B3dulo%201%20-%20Bootcamp%20Analista%20de%20Machine%20Learning.pdf)</ol><ol>[Notebook original](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/trabalho_pratico_FAM.ipynb)</ol><ol>[Dataset](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/data.csv)</ol><ol>[Notebook manipulado por mim](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/trabalho_pratico_FAM.ipynb)</ol>
 * [Overfiting](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/overfiting.ipynb)
 * [Aula_1_FAM](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/aula_1_FAM.ipynb)

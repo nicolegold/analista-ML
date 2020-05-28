@@ -1,0 +1,37 @@
+Informações sobre o Desafio
+
+O Desafio do Módulo 1 está disponível! Consulte a data de entrega no teste e em seu calendário.
+
+Reserve um tempo para realizar a atividade, leia as orientações e enunciados com atenção. Em caso de dúvidas utilize o "Fórum de dúvidas do Desafio".
+
+Para iniciá-lo clique em "Fazer teste". Você tem somente uma tentativa e não há limite de tempo definido para realizá-lo. Caso precise interromper a atividade, apenas deixe a página e, ao retornar, clique em "Retomar teste".
+
+Clique em "Enviar teste" somente quando você concluí-lo. Antes de enviar confira todas as questões.
+
+O gabarito será disponibilizado partir de sexta-feira, 29/05/2020, às 21h.
+
+Bons estudos!
+
+Objetivos
+
+Exercitar os seguintes conceitos trabalhados no Módulo:
+
+Análise exploratória dos dados (EDA - Exploratory Data Analysis)
+Preparação dos dados
+Análise de modelos
+Enunciado
+
+Neste desafio serão abordados todos os conceitos apresentados durante a disciplina Fundamentos de Machine Learning (FAM). Para este desafio será utilizada uma versão modificada do dataset “Bike Sharing” disponível no UCI Machine Learning Repository (Links para um site externo.). Esse dataset contém um conjunto de informações sobre o compartilhamento de bicicletas. Existem informações sobre as condições climáticas e dados sobre a locação das bicicletas. Para este desafio é necessário baixar o arquivo “comp_bikes_mod.csv” presente neste link: (clique aqui) (Links para um site externo.).
+
+ 
+
+Atividades
+
+Os alunos deverão desempenhar as seguintes atividades:
+
+Acessar o Google Colaboratory
+Realizar o upload do dataset “comp_bikes_mod.csv” presente neste link: clique aqui (Links para um site externo.).
+Responder as perguntas abaixo:
+Respostas Finais
+
+Os alunos deverão desenvolver a prática e, depois, responder às seguintes questões objetivas:

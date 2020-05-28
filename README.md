@@ -6,7 +6,7 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 </p>
 
 **Módulo 1: Fundamentos - Analista de Machine Learning**
-* [Aula 1: Fundamentos de Aprendizado de Máquina](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/aula_1_FAM.ipynb)
+* [Aula inicial: Fundamentos de Aprendizado de Máquina](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/aula_1_FAM.ipynb)
 * [Exemplo de Overfiting](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/overfiting.ipynb)
 * [Aula Capítulo 1](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/cap1fam.ipynb)
 * Aula Capítulo 2:<ol>[Regressao Linear](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/regressao_linear.ipynb)</ol><ol>[Dataset: headbrain.csv](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/headbrain.csv)</ol>

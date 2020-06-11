@@ -17,3 +17,8 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 * Aula Capítulo 5:<ol>[Cuidado com a saúde: aplicação](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/cuidadoComsaude.ipynb)</ol><ol>[Dataset cap5](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/data_cap5.csv)</ol>
 * Desafio do Módulo 1:<ol>[Teste](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/testedesafiomodulo1)</ol><ol>[Dataset: comp_bikes_mod.csv](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/comp_bikes_mod.csv)</ol><ol>[Notebook criado por mim](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Desafio1_FAM.ipynb)</ol>
 
+**Módulo 2 - Modelos Preditivos Séries Temporais**
+* [Apostila do Módulo 2](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Apostila%20-%20M%C3%B3dulo%202%20-%20MPT.pdf)
+* [Material das videoaulas do Módulo 2]()
+
+

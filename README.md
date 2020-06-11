@@ -20,5 +20,6 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 **Módulo 2 - Modelos Preditivos Séries Temporais**
 * [Aula Capítulo 3: Tratamento de Dados](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aplicacoes_cap3.ipynb)<ol>[Dataset: BL-Flickr-Images-Book](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/BL-Flickr-Images-Book.csv)</ol><ol>[Dataset: pima-indians-diabetes](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/pima-indians-diabetes.csv)</ol>
 * [Aula Capítulo 3: Tratamento de Dados Textuais](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/cap3_preparacao_textos.ipynb)
+* [Trabalho Prático do Módulo 2]()<ol>[Dataset: KaggleV2-May-2016](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/KaggleV2-May-2016.csv)</ol>
 
 

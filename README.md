@@ -23,5 +23,5 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 * [Exemplo de aula: Tratamento de Dados Textuais](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/cap3_preparacao_textos.ipynb)
 * [Trabalho Prático do Módulo 2](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/TrabalhoPratico2.ipynb)<ol>[Dataset: KaggleV2-May-2016](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/KaggleV2-May-2016.csv)</ol>
 * [Exemplo de aula: Algoritmos de Mineração](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/algoritmos_de_mineracao.ipynb)
-
+* Séries Temporais: <ol>[Análise Passageiros](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/analise_passageiros.ipynb)</ol><ol>[Dataset: airline-passengers](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/airline-passengers.csv)</ol><ol>[]()</ol><ol>[]()</ol><ol>[Dataset: ]()</ol>
 

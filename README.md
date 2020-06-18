@@ -27,4 +27,6 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 * Aplicação de Modelos Preditivos: <ol>[Previsão De Vendas](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/PrevisaoDeVendas.ipynb)</ol><ol>[Dataset: airline-passengers](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/airline-passengers.csv)</ol>
 * Desafio do Módulo 2:<ol>[Enunciado do Teste](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/testedesafiomodulo2)</ol><ol>[Dataset: winequality-red](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/winequality-red.csv)</ol><ol>[Desafio com Respostas](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Desafio2_Modulo2.ipynb)</ol>
 
+**Módulo 3 - Seleção de Modelos de Aprendizado de Máquina**
+
 

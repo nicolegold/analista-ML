@@ -32,4 +32,5 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 * [Exemplo de aula: Validação Cruzada](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_2__Aula_Pratica__Validacao_Cruzada.ipynb)
 * [Exemplo de aula: Otimização de Hiperparâmetros](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_3__Aula_Pratica__Otimizacao_de_Hiperparametros.ipynb)
 * [Exemplo de aula: Classificação Single Label](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_4__Aula_Pratica__Classificacao_Single_Label.ipynb)
-
+* [Trabalho Prático do Módulo 3](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/TrabalhoPratico3.ipynb)
+* Desafio do Módulo 3:<ol>[Enunciado do Teste](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/testedesafiomodulo3)</ol><ol>[Dataset: MNIST](http://yann.lecun.com/exdb/mnist/)</ol><ol>[Desafio com Respostas]()</ol>

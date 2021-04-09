@@ -13,5 +13,5 @@ Suponha que você trabalha em uma empresa que faz a leitura automática (OCR) de
 Cabe a você usar o aprendizado de máquina para ler cada imagem e dizer, com margem de segurança alta, qual número foi escrito ali. Por falta de dados de teste, você usará o MNIST para treinar o seu algoritmo. Se seu algoritmo não tiver resultados excelentes, os números serão enviados para leitura e digitação manual, feita por operadores humanos, uma operação cara e pouco escalável.
 
 Referências:
-* MNIST:<ol>[ttp://yann.lecun.com/exdb/mnist (acesso em 09/06/2020)](http://yann.lecun.com/exdb/mnist/)
-* Imagem:<ol>[http://blog.welcomege.com/mnist-database (acesso em 29/04/2018))](http://blog.welcomege.com/mnist-database/)
+* MNIST: http://yann.lecun.com/exdb/mnist/ (acesso em 09/06/2020)
+* Imagem: http://blog.welcomege.com/mnist-database (acesso em 29/04/2018)

@@ -28,5 +28,8 @@ Bootcamp Analista de Machine Learning by IGTI | Início: 07/05/2020
 * Desafio do Módulo 2:<ol>[Enunciado do Teste](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/testedesafiomodulo2)</ol><ol>[Dataset: winequality-red](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/winequality-red.csv)</ol><ol>[Desafio com Respostas](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Desafio2_Modulo2.ipynb)</ol>
 
 **Módulo 3 - Seleção de Modelos de Aprendizado de Máquina**
-
+* [Exemplo de aula: Regressão](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_1__Aula_Pratica__Regressao.ipynb)
+* [Exemplo de aula: Validação Cruzada](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_2__Aula_Pratica__Validacao_Cruzada.ipynb)
+* [Exemplo de aula: Otimização de Hiperparâmetros](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_3__Aula_Pratica__Otimizacao_de_Hiperparametros.ipynb)
+* [Exemplo de aula: Classificação Single Label](https://github.com/nicolegold/AnalistaMachineLearning/blob/master/Aula_8_4__Aula_Pratica__Classificacao_Single_Label.ipynb)
 
